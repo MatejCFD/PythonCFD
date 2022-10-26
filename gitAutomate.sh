@@ -13,4 +13,4 @@ read NAME
 
 git commit -m "$NAME"
 
-git push -u origin master
+git push 
