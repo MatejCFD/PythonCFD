@@ -13,4 +13,5 @@ read NAME
 
 git commit -m "$NAME"
 
-git push 
+git push --set-upstream origin master
+git push
